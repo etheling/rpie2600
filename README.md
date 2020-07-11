@@ -20,7 +20,7 @@ Please see below for additional details of where to source them, and how they ar
 
 ## Atari 2600 case and game cartridges
 
-[Ebay is full of not working Atari 2600](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=atari+2600+not+working)'s for less than $40. Look for units that appear to be in great outward condition and available for agreeable price. When you have a unit selected for this project, [take it apart](https://www.ifixit.com/Teardown/Atari+2600+Teardown/3541) and wash all the plastic parts with soap and water and [clean the circuit board](https://atariage.com/forums/topic/167442-question-about-cleaning-an-atari-2600-circuit-board) and test that the switches work using e.g. multimeter.
+[Ebay is full of not working Atari 2600](https://www.ebay.com/sch/i.html?_nkw=atari+2600+not+working)'s for less than $40. Look for units that appear to be in great outward condition and available for agreeable price. When you have a unit selected for this project, [take it apart](https://www.ifixit.com/Teardown/Atari+2600+Teardown/3541) and wash all the plastic parts with soap and water and [clean the circuit board](https://atariage.com/forums/topic/167442-question-about-cleaning-an-atari-2600-circuit-board) and test that the switches work using e.g. multimeter.
 
 <img src="pictures/atari2600-retropie-top00.jpg" alt="Atari 2600 case top" width="24%"> <img src="pictures/atari2600-retropie-top01.jpg" alt="Atari 2600 case top inside" width="24%"> <img src="pictures/atari2600-retropie-case-bottom-inside.jpg" alt="Atari 2600 case bottom inside" width="24%"> <img src="pictures/atari2600-retropie-case-bottom-outside.jpg" alt="Atari 2600 case bottom outside" width="24%">
 
