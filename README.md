@@ -146,7 +146,7 @@ Once assembled cartridge should look like pictures below.
 
 # RaspberryPi hardware setup
 
-Details on how to configure hardware attached to the rPi. 
+Details on how to configure hardware and cables connected to the rPi. 
 
 ## ControlBlock installation and wiring
 
@@ -177,7 +177,7 @@ MicroUSB extension cable must be connected to PowerBlock MicroUSB socket (and no
 
 ## HDMI cable
 
-HDMI extension cable is attached to Pi HDMI output. Due to space constraints, see section 'Mounting Raspberry Pi' below for further details.
+HDMI extension cable is connected to Pi HDMI output. Due to space constraints, see section 'Mounting Raspberry Pi' below for further details.
 
 ## Mounting Raspberry Pi into Atari 2600 chassis
 
